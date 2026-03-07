@@ -6,6 +6,6 @@ nesse repositório vai ter algumas informações importantes sobre o curso como:
 
 *Conteúdo
 
-- Disciplinas do curso 
-- Dicas para novos alunos
-- Experiências que tivemos até agora
+Disciplinas do curso
+Dicas para novos alunos
+Experiências que tivemos até agora
