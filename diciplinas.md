@@ -1,6 +1,7 @@
-Criatividade e Inovação
-Estatística
-Fundamentos
+Criatividade e Inovação,
+Estatística,
+Fundamentos,
 para Engenharia
-de Software
+de Software,
+
 Lógica
